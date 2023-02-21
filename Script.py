@@ -97,7 +97,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@at3movies"""
+@cinema_flix123"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -244,12 +244,10 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-𝙲𝚉𝙳 𝙱𝙾𝚃𝚉
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-𝙲𝚉𝙳 𝙱𝙾𝚃𝚉
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -303,8 +301,7 @@ Name - {}
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-©𝙲𝚉𝙳 𝙱𝙾𝚃𝚉</b>
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>
 """
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
@@ -320,8 +317,7 @@ Name - {}
     NORSLTS = """★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 𝗜𝗗 <b>: {}</b>
 𝗡𝗮𝗺𝗲 <b>: {}</b>
-𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>
-©𝙲𝚉𝙳 𝙱𝙾𝚃𝚉"""
+𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     I_CUDNT = """𝑯𝑬𝑳𝑳𝑶 {} 𝑰 𝑪𝑶𝑼𝑳𝑫𝑵'𝑻 𝑭𝑰𝑵𝑫 𝑨𝑵𝒀 𝑴𝑶𝑽𝑰𝑬 𝑰𝑵 𝑻𝑯𝑨𝑻 𝑵𝑨𝑴𝑬 ."""
 
